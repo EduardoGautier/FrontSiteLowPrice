@@ -1,0 +1,33 @@
+.imgLogo{
+	width: 7%;
+	height: 7%;
+	margin-right: 2%;
+}
+#imgProduto{
+	width: 40%;
+	height: 150px;
+}
+.card{
+	text-align: center;
+	justify-content: center;
+	width: 100%;
+	height: 95%;
+}
+
+.card img{
+	left: 110px;
+	position: relative;
+}
+.promo{
+	text-align: center;
+	padding: 1%;
+}
+.card-text{
+	font-size: 12px;
+	line-height: 5px;
+}
+.d-flexCard{
+	text-align: center;
+	justify-content: center;
+}
+
